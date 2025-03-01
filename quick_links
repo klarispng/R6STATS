@@ -1,0 +1,5 @@
+LIQUIPEDIA
+https://liquipedia.net/rainbowsix/Special:RunQuery/Team_Maps_Query
+
+SHEET
+=QUERY(IMPORTHTML("lien_recherche"; "table"; 1); "SELECT *")
